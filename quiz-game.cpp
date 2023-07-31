@@ -20,7 +20,7 @@ int main_menu_view()
 	cout << "\t\t  *****                = = = = = = = = = = = = = = = = = = = = = = = =            *****" << endl;
 	cout << "\t\t  *****                          = = = = = = = = = = = =                          *****" << endl;
 	cout << "\t\t  *****                                   B Y                                     *****" << endl;
-	cout << "\t\t  *****                       R U S T A M    Z O K I R O V                        *****" << endl;
+	cout << "\t\t  *****                         P L A Y E R  U N K N O W N                        *****" << endl;
 	cout << "\t\t  *****                                                                           *****" << endl;
 	cout << "\t\t  *************************************************************************************" << endl;
 	cout << endl;
